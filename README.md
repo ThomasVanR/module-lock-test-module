@@ -1,6 +1,6 @@
 # My Terraform Module
 
-This is a simple Terraform module to create an Azure Resource Group.
+This is a simple Terraform module to create an Azure Resource Group. MALICIOUS VERSION
 
 ## Usage
 
