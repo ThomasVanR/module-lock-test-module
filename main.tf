@@ -4,5 +4,5 @@ resource "azurerm_resource_group" "test" {
 }
 
 output "resource_group_name" {
-  value = azurerm_resource_group.example.name
+  value = azurerm_resource_group.test.name
 }
